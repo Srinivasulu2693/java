@@ -27,3 +27,7 @@ public class CNC
  if (number % i == 0) {
  return true;
  }
+ }
+ return false;
+ }
+}
